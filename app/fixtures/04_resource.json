@@ -1,0 +1,66 @@
+[
+  {
+    "model": "app.resource",
+    "pk": 1,
+    "fields": {
+      "name": "Sberbank",
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "transfer_fee": "1",
+      "location":["UK"],
+      "trader":["OB"]
+    }
+  },
+  {
+    "model": "app.resource",
+    "pk": 2,
+    "fields": {
+      "name": "Alfa-bank",
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "transfer_fee": "2",
+      "location":["UK"],
+      "trader":["OB"]
+    }
+  },
+  {
+    "model": "app.resource",
+    "pk": 3,
+    "fields": {
+      "name": "Raiffeisen",
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "transfer_fee": "2",
+      "location":["UK"],
+      "trader":["MSK"]
+
+    }
+  },
+  {
+    "model": "app.resource",
+    "pk": 4,
+    "fields": {
+      "name": "Qiwi",
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "transfer_fee": "2",
+      "location":["UK"],
+      "trader":["MSK"]
+
+    }
+  },
+   {
+    "model": "app.resource",
+    "pk": 5,
+    "fields": {
+      "name": "Crypto",
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "transfer_fee": "2",
+      "location":["UK"],
+      "trader":["MSK"]
+
+    }
+  }
+]
+

@@ -1,0 +1,35 @@
+[
+  {
+    "model": "app.currency",
+     "pk": 1,
+    "fields": {
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "k_code": "XBT",
+      "name": "Bitcoin",
+      "code": "BTC"
+    }
+  },
+  {
+    "model": "app.currency",
+    "pk": 2,
+    "fields": {
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "k_code": "EUR",
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "model": "app.currency",
+    "pk": 3,
+    "fields": {
+      "created_on": "2016-12-04 20:00:00",
+      "modified_on": "2016-12-04 20:00:00",
+      "k_code": "RUB",
+      "name": "RUR",
+      "code": "RUB"
+    }
+  }
+]

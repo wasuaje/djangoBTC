@@ -1,0 +1,13 @@
+*.pyc
+media/
+.idea
+.vagrant
+*.log
+.coverage
+_builds/
+_cache/
+_steps/
+_projects/
+.DS_Store
+*sqlite3
+
